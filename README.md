@@ -56,7 +56,7 @@ expo --version
 Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
 
 ```
-git clone git@github.com:santolaa/basket.git
+git clone git@github.com:santolaa/orgs-basket.git
 ```
 
 ### ▶️ Rodando o Projeto
